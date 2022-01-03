@@ -1,0 +1,3 @@
+Explicacion del programa:
+
+Es una app de consola que permite un numero entre 0 y 999, nos dice cuantos digitos tiene el numero.
